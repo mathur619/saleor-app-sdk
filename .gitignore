@@ -1,0 +1,20 @@
+.*
+!.dockerignore
+!.babelrc
+!.circle
+!.gitignore
+!.github
+!.jest
+!.prettierrc
+!.prettierignore
+!.eslintrc
+!.npmignore
+!.plop
+!.prettierrc
+!.storybook
+lib
+node_modules
+
+# JS GraphQL IntelliJ Plugin
+remote-schema.graphql
+.graphqlconfig
